@@ -2,6 +2,11 @@
 
 An interactive Machine Learning dashboard that predicts final student grade (G3) using academic and behavioral features.
 
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 🚀 Project Overview
 
 This project uses a supervised regression model trained on the UCI Student Performance Dataset to predict final exam scores.
